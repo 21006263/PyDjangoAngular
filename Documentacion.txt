@@ -1,0 +1,37 @@
+extensiones py
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
+https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+***
+virtuar env
+
+inicio 
+cmd
+iniciar
+C:\Python venv\venv\menv>Scripts\activate
+(menv) C:\Python venv\venv\menv>
+cerrar
+C:\Python venv\venv\menv>Scripts\deactivate
+
+
+comandos 
+iniciar : python -m venv new_env
+python.exe -m pip install --upgrade pip
+pip install --upgrade virtualenv no o
+pip uninstall virtualenv
+pip freeze
+
+
+** versiones a usar venv
+installaciones en virtaul env
+python 3.9.6 descargra 
+pip install Django==3.2.8
+
+comandos generar proyectos Django
+django-admin startproject name
+
+** comando para generar 
+python manage.py startapp inmuebleslist_app : paquetes
+python manage.py migrate
+python manage.py createsuperuser
+iniciar
+python manage.py runserver
