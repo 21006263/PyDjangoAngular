@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:inmuebles}/db.sqlite3",
+            "name": "sql"
+        }
+    ]
+}

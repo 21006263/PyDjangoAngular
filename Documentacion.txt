@@ -20,6 +20,10 @@ pip install --upgrade virtualenv no o
 pip uninstall virtualenv
 pip freeze
 
+/**/
+git por discrepacian de user 
+git config --global --add safe.directory 'C:/Python venv/venv/new_env'
+
 
 ** versiones a usar venv
 installaciones en virtaul env
@@ -35,3 +39,8 @@ python manage.py migrate
 python manage.py createsuperuser
 iniciar
 python manage.py runserver
+
+migrar los modelos ya creado en models
+1. python nangen.py makemigrations
+python manage.py makemigrations
+1.1 python manage.py migrate
