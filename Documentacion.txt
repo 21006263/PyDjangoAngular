@@ -20,10 +20,10 @@ pip install --upgrade virtualenv no o
 pip uninstall virtualenv
 pip freeze
 
-/**/
+/****************/
 git por discrepacian de user 
 git config --global --add safe.directory 'C:/Python venv/venv/new_env'
-
+/***************/
 
 ** versiones a usar venv
 installaciones en virtaul env
