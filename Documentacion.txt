@@ -44,3 +44,10 @@ migrar los modelos ya creado en models
 1. python nangen.py makemigrations
 python manage.py makemigrations
 1.1 python manage.py migrate
+
+
+
+installacion de REST
+pip install djangorestframework
+update pip
+python -m pip install --upgrade pip
